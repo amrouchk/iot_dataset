@@ -129,7 +129,8 @@
 10. Various sensor driving datasets
 	http://sensors.ini.uzh.ch/databases.html
 11. IoT Network Dataset
-	http://www.social-iot.org/index.php?p=downloads
+	// expired link : http://www.social-iot.org/index.php?p=downloads
+	https://sites.unica.it/net4u/siot-iot-network-dataset/
 12. Various MHEALTH / physical activity datasets
 	http://orestibanos.com/datasets.htm
 ```
